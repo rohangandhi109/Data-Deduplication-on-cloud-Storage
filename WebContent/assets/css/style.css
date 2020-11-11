@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+
+h4 {
+	font-family: 'Varela Round',sans-serif;
+	font-size: 30px;
+	font-weight: 900;
+	letter-spacing: 0.0625em;
+}
+
+.btn {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 25px;
+	letter-spacing: 0.0625em;
+}
